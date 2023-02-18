@@ -1,0 +1,16 @@
+.navbar {
+    width: 100vw;
+    height: 40px;
+    background-color: var(--main-bg-color);
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.navpages {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: flex-end;
+}
